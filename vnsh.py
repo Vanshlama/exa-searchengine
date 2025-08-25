@@ -1,7 +1,7 @@
 from exa_py import Exa
 
 # Initialize Exa with your API key
-exa = Exa("0122b5ae-cc8d-44e0-9954-85417101801a")
+exa = Exa("API_KEY=sk-12345_your_real_key_here")
 
 # Run the program in a continuous loop so you can search multiple times
 while True:
